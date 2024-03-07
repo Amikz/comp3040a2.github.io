@@ -11,9 +11,19 @@ Dean's Honour Roll, 2017-2018
 
 ## Technical Skills
 
-| Programming | Software    |
-| ----------- | ----------- |
-| <ul><li>Java</li><li>C/C++</li><li>Python</li><li>JS/HTML/CSS</li><li>HLSL</li></ul> | <ul><li>Visual Studio Code</li><li>Microsoft Visual Studio</li><li>GitHub/GitLab</li><li>Jira</li><li>Confluence</li></ul> |
+### Programming
+- Java
+- C/C++
+- Python
+- JS/HTML/CSS
+- HLSL
+
+### Software
+- Visual Studio Code
+- Microsoft Visual Studio
+- GitHub/GitLab
+- Jira
+- Confluence
 
 ## Industry Experience
 
