@@ -1,13 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-
-th {
-    font-weight: normal;
-}
-</style>
-
 # Kimberly Wills  
 kimberlyawills@hotmail.com
 
